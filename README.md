@@ -5,7 +5,7 @@
 [![Crates.io](https://img.shields.io/crates/v/tron.svg)](https://crates.io/crates/tron)
 [![Documentation](https://docs.rs/tron/badge.svg)](https://docs.rs/tron)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Build Status](https://github.com/yourusername/tron/workflows/CI/badge.svg)](https://github.com/yourusername/tron/actions)
+[![Build Status](https://github.com/yourusername/tron/workflows/CI/badge.svg)](https://github.com/tristanpoland/tron/actions)
 
 Tron is a modern template engine that brings composability and type safety to code generation. Build and compose templates with confidence, execute them with rust-script, and generate Rust code dynamically.
 
@@ -144,5 +144,5 @@ Tron is MIT licensed. See [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-Made with ❤️ for the Rust community
+Made with ❤️ by Tristan J. Poland for the Rust community
 </div>
